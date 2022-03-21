@@ -1,0 +1,7 @@
+C:\Users\Rishabh\Desktop\80's videos practicle\ADO_Insert\ADO_Insert\bin\Debug\ADO_Insert.exe.config
+C:\Users\Rishabh\Desktop\80's videos practicle\ADO_Insert\ADO_Insert\bin\Debug\ADO_Insert.exe
+C:\Users\Rishabh\Desktop\80's videos practicle\ADO_Insert\ADO_Insert\bin\Debug\ADO_Insert.pdb
+C:\Users\Rishabh\Desktop\80's videos practicle\ADO_Insert\ADO_Insert\obj\Debug\ADO_Insert.csproj.AssemblyReference.cache
+C:\Users\Rishabh\Desktop\80's videos practicle\ADO_Insert\ADO_Insert\obj\Debug\ADO_Insert.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Desktop\80's videos practicle\ADO_Insert\ADO_Insert\obj\Debug\ADO_Insert.exe
+C:\Users\Rishabh\Desktop\80's videos practicle\ADO_Insert\ADO_Insert\obj\Debug\ADO_Insert.pdb
